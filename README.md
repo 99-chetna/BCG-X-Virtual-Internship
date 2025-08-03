@@ -5,29 +5,18 @@ I recently participated in BCG's Data Science job simulation on the Forage platf
 
 I worked on a project to create a customer churn analysis simulation using Python. This project built my data science skills in a real-world context, as well as my presentation skills through creating an executive summary of my findings for the team. skills covered in this internship was:
 
-BUSINESS UNDERSTANDING
-
-CLIENT COMMUNICATION
-
-COMMUNICATION
-
-CREATIVITY
-
-DATA VISUALIZATION
-
-EXPLORATORY DATA ANALYSIS
-
-HYPOTHESIS FRAMING
-
-MATHEMATICAL MODELLING
-
-MODEL EVALUATION
-
-MODEL INTERPRETATION
-
-PROGRAMMING
-
-SYNTHESIS
+-BUSINESS UNDERSTANDING<br>
+-CLIENT COMMUNICATION<br>
+-COMMUNICATION<br>
+-CREATIVITY<br>
+-DATA VISUALIZATION<br>
+-EXPLORATORY DATA ANALYSIS<br>
+-HYPOTHESIS FRAMING<br>
+-MATHEMATICAL MODELLING<br>
+-MODEL EVALUATION<br>
+-MODEL INTERPRETATION<br>
+-PROGRAMMING<br>
+-SYNTHESIS<br>
 
 
 Check out the simulation here: https://www.theforage.com/simulations/bcg/data-science-ccdz
